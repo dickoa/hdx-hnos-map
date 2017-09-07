@@ -70,9 +70,9 @@ function onEachFeature(feature, layer) {
     });
 
     if (feature.properties.hdx != '') {
-        layer.bindPopup('<h4>' + feature.properties.name + '</h4><h5><a target="_blank" href="' + feature.properties.hdx + '"> View dataset on HDX </a></h5>');
+      layer.bindPopup('<h4>' + feature.properties.name + '</h4><h5><a target="_blank" href="' + feature.properties.hdx + '">' + feature.properties.pin + ' mln of people in need</a></h5>');
     } else {
-        layer.bindPopup('<h4>' + feature.properties.name + '</h4><h5>Dataset not available</h5>');
+        layer.bindPopup('<h4>' + feature.properties.name + '</h4><h5>Figures not available</h5>');
     }
 }
 
