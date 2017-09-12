@@ -14,7 +14,7 @@ var hnos = {
                 "hno": 'no',
                 "hdx": '',
                 "pin": '',
-                "date": '2016'
+                "date": ''
             },
             "geometry": {
                 "type": "MultiPolygon",
@@ -102,8 +102,8 @@ var hnos = {
                 "name": "Burundi",
                 "hno": 'yes',
                 "hdx": 'https://data.humdata.org/dataset/burundi-humanitarian-needs-overview',
-                "pin": 0.5,
-                "date": '2016'
+                "pin": 3.0,
+                "date": 'Oct 2016'
             },
             "geometry": {
                 "type": "MultiPolygon",
@@ -135,8 +135,8 @@ var hnos = {
                 "name": "Democratic Republic of the Congo",
                 "hno": 'no',
                 "hdx": '',
-                "pin": 2.5,
-                "date": '2016'
+                "pin": '',
+                "date": ''
             },
             "geometry": {
                 "type": "MultiPolygon",
@@ -277,8 +277,8 @@ var hnos = {
                 "name": "Chad",
                 "hno": 'yes',
                 "hdx": 'https://data.humdata.org/dataset/chad-humanitarian-needs-overview-and-response-plan',
-                "pin": 0.3,
-                "date": '2016'
+                "pin": 4.7,
+                "date": 'Dec 2016'
             },
             "geometry": {
                 "type": "MultiPolygon",
@@ -355,8 +355,8 @@ var hnos = {
                 "name": "Mali",
                 "hdx": "https://data.humdata.org/dataset/mali-humanitarian-needs-overview-2017",
                 "hno": 'yes',
-                "pin": 3.8,
-                "date": '2016'
+                "pin": 3.7,
+                "date": 'Nov 2016'
             },
             "geometry": {
                 "type": "MultiPolygon",
@@ -450,9 +450,9 @@ var hnos = {
                 "id": "BFA",
                 "name": "Burkina Faso",
                 "hno": 'yes',
-                "hdx": 'https://data.humdata.org/dataset/burkina-faso-humanitarian-needs-overview',
+                "hdx": 'https://data.humdata.org/dataset/burkina-faso-humanitarian-needs-overview-hno',
                 "pin": 0.9,
-                "date": '2016'
+                "date": 'Dec 2016'
             },
             "geometry": {
                 "type": "MultiPolygon",
@@ -511,8 +511,8 @@ var hnos = {
                 "name": "Cameroon",
                 "hno": 'yes',
                 "hdx": 'https://data.humdata.org/dataset/humanitarian-needs-overview-cameroon-2017',
-                "pin": 1.6,
-                "date": '2016'
+                "pin": 2.9,
+                "date": 'Dec 2016'
             },
             "geometry": {
                 "type": "MultiPolygon",
@@ -593,8 +593,8 @@ var hnos = {
                 "name": "Central African Republic",
                 "hno": 'yes',
                 "hdx": 'https://data.humdata.org/dataset/republique-centre-africaine-humanitarian-needs-overview',
-                "pin": 3.8,
-                "date": '2016'
+                "pin": 2.4,
+                "date": 'Oct 2016'
             },
             "geometry": {
                 "type": "MultiPolygon",
@@ -675,8 +675,8 @@ var hnos = {
                 "name": "Colombia",
                 "hno": 'yes',
                 "hdx": 'https://data.humdata.org/dataset/priorizacion-hno-en-soluciones-duraderas-2017',
-                "pin": 0.5,
-                "date": '2016'
+                "pin": 4.9,
+                "date": 'Nov 2016'
             },
             "geometry": {
                 "type": "MultiPolygon",
@@ -795,6 +795,7 @@ var hnos = {
                 "name": "Ethiopia",
                 "hno": 'no',
                 "hdx": '',
+                "pin": '',
                 "date": ''
             },
             "geometry": {
@@ -914,8 +915,8 @@ var hnos = {
                 "name": "Iraq",
                 "hno": 'yes',
                 "hdx": 'https://data.humdata.org/dataset/iraq-humanitarian-needs-overview',
-                "pin": 4.5,
-                "date": '2016'
+                "pin": 11,
+                "date": 'Jan 2017'
 
             },
             "geometry": {
@@ -1042,8 +1043,8 @@ var hnos = {
                 "name": "Yemen",
                 "hno": 'yes',
                 "hdx": 'https://data.humdata.org/dataset/yemen-number-of-people-in-need',
-                "pin": 4.5,
-                "date": '2016'
+                "pin": 18.8,
+                "date": 'Nov 2016'
             },
             "geometry": {
                 "type": "MultiPolygon",
@@ -1225,8 +1226,8 @@ var hnos = {
                 "name": "South Sudan",
                 "hno": 'yes',
                 "hdx": 'https://data.humdata.org/dataset/south-sudan-humanitarian-needs-overview-2017',
-                "pin": 2.1,
-                "date": '2016'
+                "pin": 7.5,
+                "date": 'Dec 2016'
             },
             "geometry": {
                 "type": "MultiPolygon",
@@ -1306,10 +1307,10 @@ var hnos = {
             "properties": {
                 "id": "SOM",
                 "name": "Somalia",
-                "hno": 'yes',
-                "hdx": 'https://data.humdata.org/dataset/mali-humanitarian-needs-overview-2017',
-                "pin": 3.2,
-                "date": '2016'
+                "hno": 'no',
+                "hdx": '',
+                "pin": '',
+                "date": ''
             },
             "geometry": {
                 "type": "MultiPolygon",
@@ -1346,8 +1347,8 @@ var hnos = {
                 "name": "Nigeria",
                 "hno": 'yes',
                 "hdx": 'https://data.humdata.org/dataset/nigeria-humanitarian-needs-overview',
-                "pin": 10.5,
-                "date": '2016'
+                "pin": 14,
+                "date": 'Nov 2016'
             },
             "geometry": {
                 "type": "MultiPolygon",
@@ -1424,8 +1425,8 @@ var hnos = {
                 "name": "Niger",
                 "hno": 'yes',
                 "hdx": 'https://data.humdata.org/dataset/niger-humanitarian-needs-overview',
-                "pin": 1.5,
-                "date": '2016'
+                "pin": 1.9,
+                "date": 'Nov 2016'
             },
             "geometry": {
                 "type": "MultiPolygon",
@@ -1559,8 +1560,8 @@ var hnos = {
                 "name": "Syria",
                 "hno": 'yes',
                 "hdx": 'https://data.humdata.org/dataset/syrian-arab-republic-humanitarian-needs-overview',
-                "pin": 5.1,
-                "date": '2016'
+                "pin": 13.5,
+                "date": 'Dec 2016'
             },
             "geometry": {
                 "type": "MultiPolygon",
@@ -1596,6 +1597,7 @@ var hnos = {
               [38.792341, 33.378686]
             ]
           ]
+
         ]
             }
     }
