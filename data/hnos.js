@@ -353,7 +353,7 @@ var hnos = {
             "properties": {
                 "id": "MLI",
                 "name": "Mali",
-                "hdx": "https://data.humdata.org/dataset/mali-humanitarian-needs-overview-2017",
+                "hdx": "https://data.humdata.org/dataset/mali-humanitarian-needs-overview",
                 "hno": 'yes',
                 "pin": 3.7,
                 "date": 'Nov 2016'
